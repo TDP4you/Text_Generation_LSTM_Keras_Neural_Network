@@ -10,3 +10,4 @@ In this project, I have taken first four chapters of moby dick as my dataset and
 
 
 ![alt_text](https://github.com/TDP4you/Text_Generation_LSTM_Keras_Neural_Network/blob/master/Screenshot2.jpg)
+.
